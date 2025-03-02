@@ -8,6 +8,8 @@ using appropriate language, avoiding jargon for non-technical audiences, and pro
 identify your audience segments, conduct thorough research to understand their needs and interests, create buyer personas, use appropriate language and tone, leverage relevant examples and case studies, customize content formats based on their preferred channels, and actively solicit feedback to adapt your approach;
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
+conduct pre-communication surveys, ask targeted questions during your presentation, observe audience reactions, and tailor your language based on their level of understanding
+
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 use clear and concise language, avoid jargon, break down complex ideas into smaller chunks, provide context and examples, use descriptive headings, include visual aids where appropriate, and ensure proper color contrast, while also utilizing alt text for images to explain visual content to screen reader users
