@@ -18,6 +18,8 @@ use clear and concise language, avoid jargon, break down complex ideas into smal
 uses language that is more readily understood by a wider audience, reducing the cognitive effort needed to process the information
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
+helps to translate abstract ideas into concrete representations, making them easier to grasp by providing a familiar reference point and visually illustrating key relationships, which ultimately leads to better understanding and retention of information. 
+
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
