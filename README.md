@@ -34,5 +34,7 @@ Improve accessibility
 Headings can be recognized by screen readers, which improves accessibility for readers with disabilities. 
 
 ## 10. What are some best practices for creating effective headings and subheadings?
+Headings and subheadings are essential elements of any document, whether it is an academic paper, a business report, a blog post, or a resume.
+
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 ## 12. How can you succinctly convey the purpose and key features of a product?
