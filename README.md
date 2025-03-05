@@ -21,6 +21,8 @@ uses language that is more readily understood by a wider audience, reducing the 
 helps to translate abstract ideas into concrete representations, making them easier to grasp by providing a familiar reference point and visually illustrating key relationships, which ultimately leads to better understanding and retention of information. 
 
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+charts, graphs, tables, diagrams, and photographs. 
+
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
